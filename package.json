@@ -1,0 +1,26 @@
+{
+  "name": "test-aave-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aave/contract-helpers": "^1.7.0",
+    "@aave/math-utils": "^1.7.0",
+    "@aave/protocol-js": "^4.3.0",
+    "dayjs": "^1.11.5",
+    "dotenv": "^16.0.2",
+    "tslib": "^2.4.0",
+    "web3": "^1.8.0"
+  },
+  "devDependencies": {
+    "ethers": "^5.7.1",
+    "reflect-metadata": "^0.1.13"
+  }
+}
